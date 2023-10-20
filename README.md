@@ -27,7 +27,7 @@ cd express-boilerplate</code></pre>
     </li>
 </ol>
 
-<p>Your application should now be running at <a href="http://localhost:3000">http://localhost:3000</a>.</p>
+<p>Your application should now be running at <a href="http://localhost:3001">http://localhost:3001</a>.</p>
 
 <h2>Directory Structure</h2>
 <p>Briefly describe the layout of your project, e.g.,</p>
